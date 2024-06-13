@@ -1,0 +1,17 @@
+
+PotentialType   = MOD
+Constraints     = ON
+
+PopulationSize 	= 10
+
+BestFrac 		= 1
+KeepBest 		= 0.2
+
+FracGene 		= 0.5
+FracMut 		= 0.3
+FracRand 		= 0.0
+
+MaxMutPerc		= 10
+
+Generations = 10
+
